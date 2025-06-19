@@ -172,6 +172,7 @@
         "image-1",
         "image-2"
       ],
+      "disabled": true,
       "settings": {
         "layout": "horizontal",
         "image_height": "700px",
@@ -207,12 +208,13 @@
         "product-1": {
           "type": "product",
           "settings": {
-            "product": "slat-model-lb-3771-wooden-finish",
+            "product": "audi-rsq8",
             "page": "",
+            "image": "shopify://shop_images/IMG_8279.jpg",
             "description": "",
             "color_text": "#ffffff",
-            "vertical": 21,
-            "horizontal": 34,
+            "vertical": 79,
+            "horizontal": 26,
             "vertical_mobile": 25,
             "horizontal_mobile": 25
           }
@@ -220,8 +222,9 @@
         "product-3": {
           "type": "product",
           "settings": {
-            "product": "",
-            "page": "slate-lite",
+            "product": "bmw-xm",
+            "page": "contact",
+            "image": "shopify://shop_images/IMG_8280_2.jpg",
             "description": "<p>Natural stone veneer</p>",
             "color_text": "#ffffff",
             "vertical": 46,
@@ -233,8 +236,9 @@
         "product-2": {
           "type": "product",
           "settings": {
-            "product": "",
-            "page": "decorative-plaster-paint",
+            "product": "bmw-x6",
+            "page": "",
+            "image": "shopify://shop_images/IMG_8281.jpg",
             "description": "",
             "color_text": "#ffffff",
             "vertical": 18,
@@ -250,7 +254,8 @@
         "product-2"
       ],
       "settings": {
-        "heading": "Ready-made <em>design solution</em>",
+        "image": "shopify://shop_images/IMG_8271.jpg",
+        "heading": "Lorem ipsum dolor <em>sit amet</em>",
         "heading_size": "title-md",
         "heading_alignment": "text-center md:items-center",
         "heading_tag": "span",
@@ -263,7 +268,7 @@
         "color_text": "",
         "color_background": "",
         "gradient_background": "",
-        "color_highlight": "",
+        "color_highlight": "#7d1212ff",
         "gradient_highlight": "",
         "color_button_text": "",
         "color_button_background": "",
@@ -400,6 +405,7 @@
         "image_4934ED",
         "image_YbgTbw"
       ],
+      "disabled": true,
       "settings": {
         "direction": "right",
         "speed": 5,
@@ -445,6 +451,7 @@
         "heading_PNepKU",
         "text_kHcfaa"
       ],
+      "disabled": true,
       "settings": {
         "text_alignment": "left",
         "text_alignment_mobile": "left",

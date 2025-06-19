@@ -1,0 +1,28 @@
+<div class="landing-video-with-content__grid-icons landing-grid-icons">
+  {% for item in grid_items %}
+    {% assign check_odd = forloop.index | modulo: 2 %}
+    <div class="landing-grid-icons__item grid-icons-item {% if check_odd == 0 %}grid-icons-item--even{% endif %}">
+      {% if item.settings.title != blank %}
+        <p class="grid-icons-item__title">{{ item.settings.title }}</p>
+      {% endif %}
+      <div class="grid-icons-item__icon">
+        {%- if item.settings.icon != blank -%}
+          {{ item.settings.icon |  image_url: width: 100 | image_tag }}
+        {%- else -%}
+          {{ 'image' |  placeholder_svg_tag }}
+        {%- endif -%}
+      </div>
+    </div>
+    {% unless forloop.last %}
+      <div class="landing-grid-icons__item grid-icons-item grid-icons-item--arrow">
+        {% if check_odd != 0 %}
+          {% render 'icon-top-to-bottom-arrow', class: 'icon-desktop' %}
+          {% render 'icon-left-to-right-arrow', class: 'icon-mobile' %}
+        {% else %}
+          {% render 'icon-bottom-to-top-arrow', class: 'icon-desktop' %}
+          {% render 'icon-right-to-left-arrow', class: 'icon-mobile' %}
+        {% endif %}
+      </div>
+    {% endunless %}
+  {% endfor %}
+</div>

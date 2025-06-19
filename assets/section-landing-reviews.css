@@ -1,0 +1,115 @@
+.landing-reviews__container {
+  background-color: #F5F3EE;
+  padding: 0 0 80px;
+}
+
+.landing-reviews__header {
+  margin: 0 0 40px;
+}
+
+.landing-reviews__title {
+  color: #171717;
+  font-family: var(--typeHeadingPrimary);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: capitalize;
+  margin: 0 0 20px;
+}
+
+.landing-reviews__stars {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  max-width: 120px;
+}
+
+.landing-reviews__stars svg {
+  width: 100%;
+}
+
+.landing-reviews__scroll-images {
+  display: flex;
+  gap: 20px;
+  width: 100%;
+  max-width: 100%;
+  overflow: scroll;
+}
+
+.swiper-free-mode > .landing-reviews__swiper-wrapper.swiper-wrapper {
+  -webkit-transition-timing-function:linear;
+   -o-transition-timing-function:linear;
+   transition-timing-function:linear;
+}
+
+/* Hide scrollbar */
+.landing-reviews__scroll-images::-webkit-scrollbar {
+  display: none;
+}
+.landing-reviews__scroll-images {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.landing-reviews__image {
+  position: relative;
+  width: 17.78vw;
+  min-width: 17.78vw;
+  max-width: 17.78vw;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.landing-reviews__image::before {
+  content: '';
+  display: block;
+  padding-top: 100%;
+}
+
+.landing-reviews__image img,
+.landing-reviews__image svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 1024px) {
+  .landing-reviews__image {
+    width: 25vw;
+    min-width: 25vw;
+    min-width: 25vw;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .landing-reviews__container {
+    padding: 0 0 60px;
+  }
+
+  .landing-reviews__header {
+    margin: 0 0 30px;
+  }
+
+  .landing-reviews__title {
+    font-size: 30px;
+    margin: 0 0 15px;
+  }
+
+  .landing-reviews__stars {
+    max-width: 72px;
+  }
+
+  .landing-reviews__image {
+    width: 34.5vw;
+    min-width: 34.5vw;
+    min-width: 34.5vw;
+  }
+
+  .landing-reviews__scroll-images {
+    gap: 15px;
+  }
+}

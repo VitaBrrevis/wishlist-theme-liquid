@@ -1,0 +1,128 @@
+<style>
+  @font-face {
+    font-family: "Albra";
+    src:
+      local("Albra"),
+      url({{ "ALBRA-REGULARITALIC.OTF" |  asset_url }}) format("opentype");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  @font-face {
+    font-family: "Albra";
+    src:
+      local("Albra"),
+      url({{ "ALBRA-LIGHT-ITALIC.TTF" |  asset_url }}) format("truetype");
+    font-display: swap;
+    font-style: italic;
+    font-weight: 400;
+  }
+
+  @font-face {
+    font-family: "RoadRadio";
+    src:
+      local("RoadRadio"),
+      url({{ "RoadRadio-Bold.ttf" |  asset_url }}) format("truetype");
+    font-display: swap;
+    font-style: normal;
+    font-weight: 700;
+  }
+</style>
+{{ "section-landing-richtext.css" | asset_url | stylesheet_tag }}
+
+<div class="landing-richtext__container page-width section--padding">
+  {% for block in section.blocks %}
+    {% case block.type %}
+      {% when "title" %}
+        {% if block.settings.title != blank %}
+          <h2 class="landing-richtext__title">{{ block.settings.title }}</h2>
+        {% endif %}
+      {% when "richtext" %}
+        {% if block.settings.text != blank %}
+          <div class="landing-richtext__text rte">{{ block.settings.text }}</div>
+        {% endif %}
+      {% when "cta" %}
+        {% if block.settings.btn_text != blank %}
+          <a href="{{ block.settings.btn_url }}" class="landing-richtext__cta button button--primary">
+            {{ block.settings.btn_text }}
+            {% render 'icon-arrow-right' %}
+          </a>
+        {% endif %}
+      {% when "image" %}
+        {% if block.settings.image != blank %}
+          <div class="landing-richtext__image">
+            {{ block.settings.image | image_url: width: 600 | image_tag }}
+          </div>
+        {% endif %}
+    {% endcase %}
+  {% endfor %}
+</div>
+
+{% schema %}
+{
+    "name": "Landing Richtext",
+    "tag": "section",
+    "class": "landing-richtext",
+    "settings": [
+    ],
+    "blocks": [
+      {
+        "name": "Heading",
+        "type": "title",
+        "settings": [
+          {
+            "type": "richtext",
+            "id": "title",
+            "label": "Heading",
+            "default": "<p>CALL US <em>to schedule your visit</em></p>"
+          }
+        ]
+      },
+      {
+        "name": "Button",
+        "type": "cta",
+        "settings": [
+          {
+            "type": "text",
+            "id": "btn_text",
+            "label": "btn_text",
+            "default": "Call Us"
+          },
+          {
+            "type": "url",
+            "id": "btn_url",
+            "label": "Button link"
+          }
+        ]
+      },
+      {
+        "name": "Richtext",
+        "type": "richtext",
+        "settings": [
+          {
+            "type": "richtext",
+            "id": "text",
+            "label": "Richtext"
+          }
+        ]
+      },
+      {
+        "name": "block",
+        "type": "image",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image"
+          }
+        ]
+      }
+    ],
+    "presets": [
+    {
+        "name": "Landing Richtext"
+    }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,782 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MetalXPatina_Alepine_60130_Roomshot_Web_HR-fullscreen_b48b0d8b-a065-46f1-adea-cc2eb5afcd66.jpg",
+            "heading": "Over 10 000 Wallpaper Designs",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "Shop Wallpaper",
+            "button_link": "shopify:\/\/pages\/shop-all-wallpaper",
+            "button_secondary_style": true
+          }
+        },
+        "slide-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kirkfl_luxury_modern_interior_light_colors_accent_wall_in_livin_9fcc7d00-f12c-4f13-9361-3ea8b7fa539f.png",
+            "heading": "Variety of Wall Panel Styles",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "Shop Panel",
+            "button_link": "shopify:\/\/collections\/wall-panels",
+            "button_secondary_style": true
+          }
+        },
+        "image_4W8CB8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TV_Wall_2.jpg",
+            "heading": "Designer and Installation Services",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "Learn more",
+            "button_link": "shopify:\/\/pages\/design-solutions-1",
+            "button_secondary_style": true
+          }
+        },
+        "slide-3": {
+          "type": "video",
+          "disabled": true,
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "",
+            "video_url_mobile": "",
+            "heading": "VIDEO SLIDE",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_secondary_style": false
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "slide-2",
+        "image_4W8CB8",
+        "slide-3"
+      ],
+      "settings": {
+        "autoplay": true,
+        "autoplay_speed": 4,
+        "show_navigation": true,
+        "image_height": "650px",
+        "content_width": "small",
+        "image_height_mobile": "400px",
+        "color_text": "#ffffff",
+        "color_background": "#ffffff",
+        "gradient_background": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#000000",
+        "overlay_opacity": 15,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "wallpaper",
+            "page": "",
+            "title": "Wallpaper",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 40
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "wall-panels",
+            "page": "",
+            "title": "Wall panel",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 40
+          }
+        },
+        "collection-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "venetian-plaster",
+            "page": "",
+            "title": "Decorative Plaster\/Paint",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 40
+          }
+        },
+        "collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "stone-veneer",
+            "page": "",
+            "title": "Stone veneer",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 40
+          }
+        },
+        "collection-6": {
+          "type": "collection",
+          "settings": {
+            "collection": "installation",
+            "page": "installation",
+            "title": "Installation",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "collection-2",
+        "collection-3",
+        "collection-5",
+        "collection-4",
+        "collection-6"
+      ],
+      "settings": {
+        "columns": 5,
+        "carousel_on_desktop": true,
+        "image_type": "collection",
+        "image_ratio": "square",
+        "show_products_count": false,
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "Products",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "span",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "multicolumn_TY8nrp": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Dp4HaE": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "left",
+            "text_alignment_mobile": "left",
+            "image": "shopify:\/\/shop_images\/1_5a707c0b-ae8e-4384-a147-acbc1fa6f2d7.png",
+            "image_ratio": "adapt",
+            "heading": "",
+            "heading_size": "text-lg-2xl",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_34KWyn": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "left",
+            "text_alignment_mobile": "left",
+            "image": "shopify:\/\/shop_images\/2_2_0dd3ac58-c3d6-45f8-82aa-9a5e432eaaf8.png",
+            "image_ratio": "adapt",
+            "heading": "",
+            "heading_size": "text-lg-2xl",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "column_GiN83N": {
+          "type": "column",
+          "settings": {
+            "show_border": false,
+            "text_alignment": "center",
+            "text_alignment_mobile": "left",
+            "image": "shopify:\/\/shop_images\/3_3.png",
+            "image_ratio": "adapt",
+            "heading": "",
+            "heading_size": "text-lg-2xl",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "column_Dp4HaE",
+        "column_34KWyn",
+        "column_GiN83N"
+      ],
+      "settings": {
+        "columns": 3,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "video-with-text-overlay": {
+      "type": "video-with-text-overlay",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "ELIE SAAB",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Elegant Parisian style with taste of the Maison brand<\/p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "Discover All Brands",
+            "button_link": "shopify:\/\/collections\/wallpaper",
+            "button_size": "md",
+            "button_secondary_style": true
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "disabled": true,
+      "settings": {
+        "transparent_header": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=6cZSTgllgzA",
+        "description": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "image_height": "adapt",
+        "content_width": "medium",
+        "content_position": "md:items-center md:justify-center",
+        "text_alignment": "center",
+        "video_url_mobile": "",
+        "image_height_mobile": "250px",
+        "content_position_mobile": "items-center justify-center",
+        "text_alignment_mobile": "center",
+        "color_text": "#ffffff",
+        "color_highlight": "#e0a580",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#000000",
+        "overlay_opacity": 50,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": true,
+        "rounded": true
+      }
+    },
+    "image-comparison": {
+      "type": "image-comparison",
+      "blocks": {
+        "image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Living_2White_web.jpg",
+            "subheading": "",
+            "heading": "Before",
+            "content_position": "end",
+            "color_text": "#ffffff"
+          }
+        },
+        "image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Living_2_web.jpg",
+            "subheading": "",
+            "heading": "After",
+            "content_position": "end",
+            "color_text": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "image-1",
+        "image-2"
+      ],
+      "settings": {
+        "layout": "horizontal",
+        "image_height": "700px",
+        "image_height_mobile": "300px",
+        "heading": "<em>Transform your space<\/em>",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "span",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "highlighted_text": "text",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "linear-gradient(90deg, rgba(249, 197, 141, 1) 3%, rgba(43, 43, 43, 1) 100%)",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "shop-the-look": {
+      "type": "shop-the-look",
+      "blocks": {
+        "product-1": {
+          "type": "product",
+          "settings": {
+            "product": "slat-model-lb-3771-wooden-finish",
+            "page": "",
+            "description": "",
+            "color_text": "#ffffff",
+            "vertical": 21,
+            "horizontal": 34,
+            "vertical_mobile": 25,
+            "horizontal_mobile": 25
+          }
+        },
+        "product-3": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "page": "slate-lite",
+            "image": "shopify:\/\/shop_images\/Screenshot_8_750_990.jpg",
+            "description": "<p>Natural stone veneer<\/p>",
+            "color_text": "#ffffff",
+            "vertical": 46,
+            "horizontal": 70,
+            "vertical_mobile": 50,
+            "horizontal_mobile": 50
+          }
+        },
+        "product-2": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "page": "decorative-plaster-paint",
+            "image": "shopify:\/\/shop_images\/lime-paint-brush-5-inch_1_copy.jpg",
+            "description": "",
+            "color_text": "#ffffff",
+            "vertical": 18,
+            "horizontal": 82,
+            "vertical_mobile": 75,
+            "horizontal_mobile": 65
+          }
+        }
+      },
+      "block_order": [
+        "product-1",
+        "product-3",
+        "product-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/TV_Wall_1v2.jpg",
+        "heading": "Ready-made <em>design solution<\/em>",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "span",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "highlighted_text": "scribble",
+        "highlighted_scribble": "squiggle-underline",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 0,
+        "padding_top": 36,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": true
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Creating harmony in your home is essential for fostering a sense of peace and well-being. A harmonious environment can enhance your mood, reduce stress, and improve overall quality of life.<\/p><p>It's about creating a balanced and aesthetically pleasing space that reflects your personality and meets your needs. At Concept Walls, we are dedicated to helping you build this harmony, transforming your home into a place of comfort and beauty.<\/p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "We believe in creating harmony in your <em>home<\/em>",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "span",
+        "subheading": "",
+        "description": "",
+        "button_label": "Our Story",
+        "button_link": "shopify:\/\/pages\/about-us",
+        "highlighted_text": "scribble",
+        "highlighted_scribble": "basic-underline",
+        "color_text": "",
+        "color_background": "rgba(0,0,0,0)",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "divider": true,
+        "narrow": false,
+        "rounded": false
+      }
+    },
+    "scrolling-text-2": {
+      "type": "scrolling-text",
+      "blocks": {
+        "image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/arte-logo-zwart_8c91cfc1-c060-4d2c-875b-9ac284d39900.png",
+            "height": 60
+          }
+        },
+        "image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logoTagline.svg",
+            "height": 60
+          }
+        },
+        "image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zambaiti-logo.svg",
+            "height": 60
+          }
+        },
+        "image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/YWC-Logo-2018_400_copy.png",
+            "height": 60
+          }
+        },
+        "image-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/thibaut-design-logo-homepage-big_copy.png",
+            "height": 60
+          }
+        },
+        "image-6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wallquest-logo-300px-300x300.png",
+            "height": 60
+          }
+        },
+        "image_3XF6EY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/innovations-grey-logo_copy.png",
+            "height": 80
+          }
+        },
+        "image_DUCbtm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/trussardi_copy.png",
+            "height": 80
+          }
+        },
+        "image_4934ED": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lambo.png",
+            "height": 80
+          }
+        },
+        "image_YbgTbw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Koroseal_LOGO_HORIZ_654C.png",
+            "height": 80
+          }
+        }
+      },
+      "block_order": [
+        "image-1",
+        "image-2",
+        "image-3",
+        "image-4",
+        "image-5",
+        "image-6",
+        "image_3XF6EY",
+        "image_DUCbtm",
+        "image_4934ED",
+        "image_YbgTbw"
+      ],
+      "settings": {
+        "direction": "right",
+        "speed": 5,
+        "grid_horizontal": 140,
+        "enable_twin": true,
+        "enable_parallax": true,
+        "color_text": "",
+        "color_background": "#99998a",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 72,
+        "divider": false,
+        "rounded": false
+      }
+    },
+    "rich_text_NgUmbB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PNepKU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wall Treatment Solutions from Concept Walls",
+            "heading_size": "title-sm",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_kHcfaa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Choosing the right wall treatments is essential for creating a unique atmosphere in your home or office. Our wall finishes not only protect surfaces but also set the design tone, offering unmatched aesthetic and functional benefits.<\/p><p>Located in Dania Beach, Florida, Concept Walls is your go-to destination for premium wall treatments. Visit our store at <a href=\"https:\/\/www.google.com\/maps\/place\/Concept+Walls\/@26.048708,-80.1537651,17z\/data=!4m15!1m8!3m7!1s0x88d9abcfaf1644d5:0xee8b0b8ea7bc49cd!2sConcept+Walls!8m2!3d26.0487102!4d-80.1536276!10e5!16s%2Fg%2F11y5l3n_2y!3m5!1s0x88d9abcfaf1644d5:0xee8b0b8ea7bc49cd!8m2!3d26.0487102!4d-80.1536276!16s%2Fg%2F11y5l3n_2y?hl=en&entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D\" target=\"_blank\" title=\"https:\/\/www.google.com\/maps\/place\/Concept+Walls\/@26.048708,-80.1537651,17z\/data=!4m15!1m8!3m7!1s0x88d9abcfaf1644d5:0xee8b0b8ea7bc49cd!2sConcept+Walls!8m2!3d26.0487102!4d-80.1536276!10e5!16s%2Fg%2F11y5l3n_2y!3m5!1s0x88d9abcfaf1644d5:0xee8b0b8ea7bc49cd!8m2!3d26.0487102!4d-80.1536276!16s%2Fg%2F11y5l3n_2y?hl=en&entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D\">1300 Stirling Road, ste 2A<\/a> to explore a curated collection of exclusive designs and receive personalized consultations tailored to your needs.<\/p><h3>Why Choose Our Store?<\/h3><ul><li>Local Expertise: As the best wallpaper store in Dania Beach, we specialize in high-quality materials, including wallpaper, wall paneling, stone veneer, and decorative plaster\/paint.<\/li><li>Eco-Friendly and Durable Materials: Our products are fire-resistant, waterproof, and easy to install, ensuring long-term reliability.<\/li><li>Personalized Service: Get expert advice, explore a wide range of colors and textures, and receive support for seamless installatio<\/li><\/ul><h3>Unique Benefits:<\/h3><ul><li>Exclusive designs not available online.<\/li><li>Personalized one-on-one consultations with our design experts.<\/li><\/ul><p><em>Explore the best solutions for your space and elevate your interiors with Concept Walls!<\/em><\/p>",
+            "text_size": "subtext-sm",
+            "text_max_size": 60,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PNepKU",
+        "text_kHcfaa"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "blog-posts-collage": {
+      "type": "blog-posts-collage",
+      "disabled": true,
+      "settings": {
+        "blog": "",
+        "post_limit": 3,
+        "show_view_all": true,
+        "image_ratio": "landscape",
+        "show_tags": true,
+        "show_date": true,
+        "show_comments": true,
+        "show_author": false,
+        "show_excerpt": true,
+        "heading": "Latest Stories",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "1725328553969e78db": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_JFBXGG": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "alignment": "center",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_JFBXGG"
+      ],
+      "settings": {
+        "enable_reviews_integration": true,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 36,
+        "padding_bottom": 100,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "collection-list",
+    "multicolumn_TY8nrp",
+    "video-with-text-overlay",
+    "image-comparison",
+    "shop-the-look",
+    "rich-text",
+    "scrolling-text-2",
+    "rich_text_NgUmbB",
+    "blog-posts-collage",
+    "1725328553969e78db"
+  ]
+}

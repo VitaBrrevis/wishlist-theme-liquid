@@ -1,0 +1,93 @@
+{%- style -%}
+  #shopify-section-{{ section.id }} {
+    --section-padding-top: {{ section.settings.padding_top }}px;
+    --section-padding-bottom: {{ section.settings.padding_bottom }}px;
+    --color-background: {{ section.settings.color_background.rgb }};
+    --color-foreground: {{ section.settings.color_text.rgb }};
+    --color-transparent: {{ section.settings.transparent_color_text.rgb }};
+  }
+{%- endstyle -%}
+
+<header class="landing-header page-width">
+  {% render 'header-logo' %}
+
+  {% if section.settings.phone != blank %}
+    <div class="landing-header__phone-button">
+      {% render 'icon-phone-landing' %}
+      {{ section.settings.phone }}
+    </div>
+  {% endif %}
+</header>
+
+{% schema %}
+{
+    "name": "Landing Header",
+    "settings": [
+      {
+        "type": "header",
+        "content": "Phone settings"
+      },
+      {
+        "type": "inline_richtext",
+        "id": "phone",
+        "label": "Phone"
+      },
+      {
+        "type": "header",
+        "content": "t:sections.header.settings.header__transparent.content",
+        "info": "t:sections.header.settings.header__transparent.info"
+      },
+      {
+        "type": "paragraph",
+        "content": "t:sections.header.settings.paragraph__logo_help.content"
+      },
+      {
+        "type": "color",
+        "id": "transparent_color_text",
+        "label": "t:sections.header.settings.transparent_color_text.label",
+        "default": "#ffffff"
+      },
+      {
+        "type": "header",
+        "content": "t:sections.global.settings.header__colors.content",
+        "info": "t:sections.global.settings.header__colors.info"
+      },
+      {
+        "type": "color",
+        "id": "color_text",
+        "label": "t:sections.global.settings.color_text.label",
+        "default": "#171717"
+      },
+      {
+        "type": "color",
+        "id": "color_background",
+        "label": "t:sections.global.settings.color_background.label",
+        "default": "#ffffff"
+      },
+      {
+        "type": "header",
+        "content": "t:sections.global.settings.header__section.content"
+      },
+      {
+        "type": "range",
+        "id": "padding_top",
+        "min": 0,
+        "max": 120,
+        "step": 2,
+        "unit": "px",
+        "label": "t:sections.global.settings.padding_top.label",
+        "default": 32
+      },
+      {
+        "type": "range",
+        "id": "padding_bottom",
+        "min": 0,
+        "max": 120,
+        "step": 2,
+        "unit": "px",
+        "label": "t:sections.global.settings.padding_bottom.label",
+        "default": 32
+      }
+    ]
+}
+{% endschema %}

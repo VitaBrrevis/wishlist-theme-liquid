@@ -1,0 +1,305 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "heading_size": "title-lg tracking-heading",
+        "heading_tag": "h1",
+        "text_size": "text-base",
+        "padding_top": 120,
+        "padding_bottom": 0,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "image_with_text_overlay_BKiQrR": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_qHeJEW": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Add a tagline",
+            "subheading_size": "subtitle-md",
+            "secondary_color": true
+          }
+        },
+        "heading_RqeriV": {
+          "type": "heading",
+          "settings": {
+            "heading": "We cultivate style in your space",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "span",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_qHeJEW",
+        "heading_RqeriV"
+      ],
+      "settings": {
+        "transparent_header": false,
+        "image": "shopify:\/\/shop_images\/Screenshot_10_b59f1246-81c0-4620-83d4-9e99829a6d67.jpg",
+        "image_height": "600px",
+        "content_width": "small",
+        "content_position": "md:items-end md:justify-start",
+        "text_alignment": "left",
+        "image_mobile": "shopify:\/\/shop_images\/Screenshot_10_b59f1246-81c0-4620-83d4-9e99829a6d67.jpg",
+        "image_height_mobile": "auto",
+        "content_position_mobile": "items-end justify-start",
+        "text_alignment_mobile": "left",
+        "color_text": "#ffffff",
+        "color_highlight": "#e0a580",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 30,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": true,
+        "parallax_direction": "vertical"
+      }
+    },
+    "images-with-text": {
+      "type": "images-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our <em>Story<\/em>",
+            "heading_size": "title-md",
+            "heading_tag": "h1",
+            "highlighted_text": "scribble",
+            "highlighted_scribble": "basic-underline"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our story began with a deep-rooted passion for the art of wallpaper printing and professional installation. This journey led to the birth of the Costa Cover brand in 2017, right here in sunny Florida. Specializing in Peel and Stick wallpaper, Costa Cover quickly became synonymous with quality and creativity. Over the years, we curated a collection of over 800 unique designs and proudly processed more than 20,000 customer orders, each one a testament to our commitment to excellence.<\/p><p>At the same time, WallProDecor was making its mark in the industry. With over a decade of experience, they perfected the craft of wallpaper installation, completing more than 5,000 residential and commercial projects across Florida and Colorado. Their reputation for impeccable service and attention to detail made them a trusted name in the field.<\/p><p>In 2023, our paths converged. Combining Costa Cover's innovative designs with WallProDecor's expert installation services, we realized we could offer something extraordinary. We envisioned a comprehensive service that would cater to all aspects of wall decor, from the initial design to the final installation. Thus, Concept Walls was born.<\/p><p>We poured our hearts into this project, analyzing the entire American market, gathering best practices, and listening to customer feedback. Our goal was to bring together the finest suppliers of Vinyl Wallpaper, Natural materials, decorative Stone veneer, Wall Paneling and more. We stay ahead of design trends, ensuring our offerings are always fresh and inspiring.<\/p><p>Our team includes professional interior designers, ready to help you bring any vision to life. At Concept Walls, we believe that every space should be unique and reflect the personality of its inhabitants. We are here to inspire, to help you decorate your space, and to make your home truly flawless.<\/p><p>Concept Walls - it's all about walls, and it's all about you. <\/p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/about_Us_copy_94dea784-37bf-44db-80e7-50765cb8a48e.jpg",
+        "image_ratio": "adapt",
+        "image_width": "small",
+        "layout": "image_first",
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 100,
+        "padding_bottom": 36,
+        "divider": false,
+        "full_width": false,
+        "rounded": true,
+        "enable_parallax": true
+      }
+    },
+    "collage_9Kd6Wj": {
+      "type": "collage",
+      "blocks": {
+        "image_yLEBfX": {
+          "type": "image",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "link": "",
+            "invert_subheading_heading": false,
+            "image": "shopify:\/\/shop_images\/20240626_121621_2_2.jpg",
+            "image_ratio": "portrait",
+            "content_position": "md:items-end md:justify-start",
+            "text_alignment": "left",
+            "image_ratio_mobile": "portrait",
+            "content_position_mobile": "items-end justify-start",
+            "text_alignment_mobile": "left",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "color_text": "#ffffff",
+            "color_highlight": "",
+            "gradient_highlight": "",
+            "color_overlay": "#171717",
+            "overlay_opacity": 10
+          }
+        },
+        "image_Um43tw": {
+          "type": "image",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "link": "",
+            "invert_subheading_heading": false,
+            "image": "shopify:\/\/shop_images\/20240710_170709_2.jpg",
+            "image_ratio": "portrait",
+            "content_position": "md:items-end md:justify-start",
+            "text_alignment": "left",
+            "image_ratio_mobile": "portrait",
+            "content_position_mobile": "items-end justify-start",
+            "text_alignment_mobile": "left",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "color_text": "#ffffff",
+            "color_highlight": "",
+            "gradient_highlight": "",
+            "color_overlay": "#171717",
+            "overlay_opacity": 10
+          }
+        },
+        "image_YqRLQP": {
+          "type": "image",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "link": "",
+            "invert_subheading_heading": false,
+            "image": "shopify:\/\/shop_images\/20240625_184315_2.jpg",
+            "image_ratio": "portrait",
+            "content_position": "md:items-end md:justify-start",
+            "text_alignment": "left",
+            "image_ratio_mobile": "portrait",
+            "content_position_mobile": "items-end justify-start",
+            "text_alignment_mobile": "left",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "color_text": "#ffffff",
+            "color_highlight": "",
+            "gradient_highlight": "",
+            "color_overlay": "#171717",
+            "overlay_opacity": 10
+          }
+        },
+        "image_LEYzMk": {
+          "type": "image",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "link": "",
+            "invert_subheading_heading": false,
+            "image": "shopify:\/\/shop_images\/20240625_184218_2.jpg",
+            "image_ratio": "portrait",
+            "content_position": "md:items-end md:justify-start",
+            "text_alignment": "left",
+            "image_ratio_mobile": "portrait",
+            "content_position_mobile": "items-end justify-start",
+            "text_alignment_mobile": "left",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "color_text": "#ffffff",
+            "color_highlight": "",
+            "gradient_highlight": "",
+            "color_overlay": "#171717",
+            "overlay_opacity": 10
+          }
+        }
+      },
+      "block_order": [
+        "image_yLEBfX",
+        "image_Um43tw",
+        "image_YqRLQP",
+        "image_LEYzMk"
+      ],
+      "settings": {
+        "heading": "Be inspired with us",
+        "heading_size": "title-md",
+        "heading_alignment": "text-right md:items-end md:flex-row-reverse",
+        "heading_tag": "span",
+        "subheading": "",
+        "description": "<p>We have selected the finest materials for you and are ready to provide everything you need to decorate your walls.<\/p><p>We look forward to welcoming you to our showroom at: <a href=\"https:\/\/maps.app.goo.gl\/nRYk9QdvPdWJWgGS6\" title=\"https:\/\/maps.app.goo.gl\/nRYk9QdvPdWJWgGS6\"><strong>1300 Stirling Rd, ste 2A, Dania Beach, Florida 33004<\/strong><\/a><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "divider": false,
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": true
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<p>We want to give you ready-made solutions to improve your space. Home renovation is simple and easy with us.<\/p>",
+            "author": "Concept Walls Team",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 36,
+        "padding_bottom": 100,
+        "divider": false,
+        "rounded": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_BKiQrR",
+    "images-with-text",
+    "collage_9Kd6Wj",
+    "testimonials"
+  ]
+}

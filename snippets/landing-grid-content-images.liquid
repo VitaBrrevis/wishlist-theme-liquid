@@ -1,0 +1,26 @@
+<div class="landing-video-with-content__grid-images landing-grid-images">
+  {% for item in grid_items %}
+    {% liquid
+      if item.settings.link != blank
+        assign card_tag = 'a'
+      else
+        assign card_tag = 'div'
+      endif
+    %}
+    <{{ card_tag }} href="{{ item.settings.link }}" class="landing-grid-images__item grid-images-item">
+      <div class="grid-images-item__image">
+        {% if item.settings.image != blank %}
+          {{ item.settings.image | image_url: width: 600 | image_tag }}
+        {% else %}
+          {{ 'image' | placeholder_svg_tag }}
+        {% endif %}
+      </div>
+      {% if item.settings.title != blank %}
+        <p class="grid-images-item__title">{{ item.settings.title }}</p>
+      {% endif %}
+      {% if item.settings.text != blank %}
+        <p class="grid-images-item__text">{{ item.settings.text }}</p>
+      {% endif %}
+    </{{ card_tag }}>
+  {% endfor %}
+</div>

@@ -1,0 +1,9 @@
+<div class="landing-video-with-content__grid-richtext landing-grid-richtext">
+  {% for item in grid_items %}
+    {%- if item.settings.text != blank -%}
+      <div class="landing-grid-richtext__item grid-richtext-item">
+        {{ item.settings.text }}
+      </div>
+    {%- endif -%}
+  {% endfor %}
+</div>

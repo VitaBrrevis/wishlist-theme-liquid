@@ -288,8 +288,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Creating harmony in your home is essential for fostering a sense of peace and well-being. A harmonious environment can enhance your mood, reduce stress, and improve overall quality of life.</p><p>It's about creating a balanced and aesthetically pleasing space that reflects your personality and meets your needs. At Concept Walls, we are dedicated to helping you build this harmony, transforming your home into a place of comfort and beauty.</p>",
-            "text_size": "subtext-md",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum<br/><br/></p>",
+            "text_size": "subtext-sm",
             "text_max_size": 32,
             "text_font": "body",
             "secondary_color": false,
@@ -302,28 +302,28 @@
         "text"
       ],
       "settings": {
-        "text_alignment": "left",
+        "text_alignment": "right",
         "text_alignment_mobile": "left",
-        "heading": "We believe in creating harmony in your <em>home</em>",
+        "heading": "Lorem ipsum dolor sit amet, consectetur <em>adipiscing elit</em>",
         "heading_size": "title-md",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "span",
         "subheading": "",
         "description": "",
-        "button_label": "Our Story",
+        "button_label": "Bruh",
         "button_link": "shopify://pages/about-us",
-        "highlighted_text": "scribble",
-        "highlighted_scribble": "basic-underline",
+        "highlighted_text": "text",
+        "highlighted_scribble": "circle",
         "color_text": "",
         "color_background": "rgba(0,0,0,0)",
         "gradient_background": "",
         "color_highlight": "",
-        "gradient_highlight": "",
+        "gradient_highlight": "linear-gradient(90deg, rgba(255, 255, 255, 1), rgba(147, 85, 46, 1) 49%, rgba(125, 18, 18, 1) 100%)",
         "color_button_text": "",
         "color_button_background": "",
         "color_button_gradient": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
+        "padding_top": 12,
+        "padding_bottom": 12,
         "divider": true,
         "narrow": false,
         "rounded": false
@@ -515,25 +515,6 @@
         "full_width": false,
         "rounded": false
       }
-    },
-    "1725328553969e78db": {
-      "type": "apps",
-      "settings": {
-        "enable_reviews_integration": true,
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 36,
-        "padding_bottom": 100,
-        "divider": false,
-        "full_width": false,
-        "rounded": false
-      }
     }
   },
   "order": [
@@ -544,7 +525,6 @@
     "rich-text",
     "scrolling-text-2",
     "rich_text_NgUmbB",
-    "blog-posts-collage",
-    "1725328553969e78db"
+    "blog-posts-collage"
   ]
 }

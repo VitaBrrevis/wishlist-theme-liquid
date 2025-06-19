@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "footer",
   "name": "t:sections.footer-group.name",
@@ -10,8 +19,8 @@
           "settings": {
             "icon": "support",
             "custom_icon": "",
-            "heading": "<a href=\"\/pages\/contact\" title=\"Contact\">Customer Service<\/a>",
-            "text": "<p>Reach out to us for pricing and availability details<\/p>",
+            "heading": "<a href=\"/pages/contact\" title=\"Contact\">Customer Service</a>",
+            "text": "<p>Reach out to us for pricing and availability details</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -23,7 +32,7 @@
             "icon": "box",
             "custom_icon": "",
             "heading": "Fast Free Shipping",
-            "text": "<p>Get free shipping on orders of $150 or more<\/p>",
+            "text": "<p>Get free shipping on orders of $150 or more</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -34,7 +43,7 @@
             "icon": "users",
             "custom_icon": "",
             "heading": "Designer Trade Account",
-            "text": "<p>Get up to 30% discount on wallpaper<\/p>",
+            "text": "<p>Get up to 30% discount on wallpaper</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -46,7 +55,7 @@
             "icon": "shield",
             "custom_icon": "",
             "heading": "Secure payment",
-            "text": "<p>Your payment information is processed securely<\/p>",
+            "text": "<p>Your payment information is processed securely</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -56,8 +65,8 @@
           "settings": {
             "icon": "swatchbook",
             "custom_icon": "",
-            "heading": "<a href=\"\/pages\/contact\" title=\"Contact\">Free Samples<\/a>",
-            "text": "<p>Get free samples of Wallpaper and Wall Panels<\/p>",
+            "heading": "<a href=\"/pages/contact\" title=\"Contact\">Free Samples</a>",
+            "text": "<p>Get free samples of Wallpaper and Wall Panels</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -105,22 +114,15 @@
         "logo_social": {
           "type": "logo_social",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/22.png",
-            "logo_height": 50,
-            "show_social": true,
+            "logo": "shopify://shop_images/ChatGPT_Image_Jun_19_2025_10_42_23_PM.png",
+            "logo_height": 100,
+            "show_social": false,
             "enable_follow_on_shop": false
-          }
-        },
-        "link_list-1": {
-          "type": "link_list",
-          "settings": {
-            "heading": "",
-            "menu": "impulse-footer",
-            "container_width": 40
           }
         },
         "brand_information": {
           "type": "brand_information",
+          "disabled": true,
           "settings": {
             "heading": "",
             "button_label_1": "",
@@ -129,20 +131,20 @@
             "button_link_2": "mailto:info@conceptwalls.store",
             "button_label_3": "Phone: 561-825-8071",
             "button_link_3": "tel:561-825-8071",
-            "button_label_4": "<p>Showroom: 1300 Stirling Rd,<\/p><p>office 2A, Dania Beach, FL, 33004<\/p>",
-            "button_link_4": "https:\/\/maps.app.goo.gl\/9fh2i9YHAxuXHwfD6",
-            "container_width": 55
+            "button_label_4": "<p>Showroom: 1300 Stirling Rd,</p><p>office 2A, Dania Beach, FL, 33004</p>",
+            "button_link_4": "https://maps.app.goo.gl/9fh2i9YHAxuXHwfD6",
+            "container_width": 51
           }
         }
       },
       "block_order": [
         "logo_social",
-        "link_list-1",
         "brand_information"
       ],
+      "disabled": true,
       "settings": {
         "enable_newsletter": false,
-        "newsletter_heading": "Stay in the loop with our weekly newsletter",
+        "newsletter_heading": "",
         "newsletter_text": "",
         "show_social": false,
         "enable_follow_on_shop": false,
@@ -169,7 +171,7 @@
         "show_payment_icons": false,
         "monochrome_payment_icons": false,
         "show_copyright": true,
-        "copyright_text": "MU Group LLC Copyright.  All rights reserved",
+        "copyright_text": "No rights reserved lol",
         "color_text": "#ffffff",
         "color_background": "#171717",
         "gradient_background": "",

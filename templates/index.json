@@ -18,7 +18,7 @@
             "image": "shopify://shop_images/vecteezy_close-up-of-blooming-flowerbeds-of-amazing-red-color_23594115.jpg",
             "heading": "Lorem ipsum dolor sit amet",
             "heading_size": "title-sm",
-            "heading_tag": "h2",
+            "heading_tag": "span",
             "button_label": "Shop All",
             "button_link": "shopify://pages/shop-all-wallpaper",
             "button_secondary_style": true

@@ -180,7 +180,7 @@
         "mega_menu_R8mr39"
       ],
       "settings": {
-        "menu": "",
+        "menu": "main-menu",
         "menu_mobile": "",
         "menu_active": "block",
         "hover_menu": true,
@@ -191,9 +191,9 @@
         "phone_text": "<p>561-825-8071 </p>",
         "phone_link": "tel:561-825-8071",
         "logo_position_mobile": "center",
-        "show_social": true,
-        "enable_language_selector": true,
-        "enable_country_selector": true,
+        "show_social": false,
+        "enable_language_selector": false,
+        "enable_country_selector": false,
         "transparent_color_text": "#171717",
         "color_text": "#ffffff",
         "color_background": "#171717",

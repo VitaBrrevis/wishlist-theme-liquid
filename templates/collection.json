@@ -61,40 +61,6 @@
     },
     "main-collection": {
       "type": "main-collection",
-      "blocks": {
-        "subcollections": {
-          "type": "subcollections",
-          "settings": {
-            "menu": "",
-            "per_row": 5,
-            "show_count": true
-          }
-        },
-        "promotion": {
-          "type": "promotion",
-          "settings": {
-            "position": 8,
-            "heading": "Example heading",
-            "content": "<p>Share information about your brand with your customers.</p>",
-            "button_label": "Shop now",
-            "button_link": "",
-            "content_position": "md:items-center",
-            "text_alignment": "center",
-            "content_position_mobile": "items-center",
-            "text_alignment_mobile": "center",
-            "color_text": "#ffffff",
-            "color_button_text": "#4d5940",
-            "color_button_background": "#ffffff",
-            "color_button_gradient": "",
-            "color_overlay": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "subcollections",
-        "promotion"
-      ],
       "settings": {
         "products_per_page": 11,
         "columns": 4,

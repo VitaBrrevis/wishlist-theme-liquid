@@ -308,7 +308,7 @@
       "settings": {
         "text_alignment": "right",
         "text_alignment_mobile": "left",
-        "heading": "So… you scrolled<em> all the way down</em>?",
+        "heading": "So… you scrolled<em> all the way down?</em>",
         "heading_size": "title-md",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "span",

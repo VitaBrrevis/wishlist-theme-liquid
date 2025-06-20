@@ -24,7 +24,7 @@
       }
     },
     "image_with_text_overlay_BKiQrR": {
-      "type": "image-with-text-overlay",
+      "type": "image-with-text-overlay", 
       "blocks": {
         "heading_RqeriV": {
           "type": "heading",

@@ -25,6 +25,7 @@
   {%- liquid
     assign featured_media = product.featured_media
     if product == blank or page_image != blank
+       echo featured_media | json
       assign featured_media = page_image
     endif
     assign product_url = product.url | within: collection

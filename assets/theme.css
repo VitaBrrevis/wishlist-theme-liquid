@@ -4946,6 +4946,9 @@ ol {
     max-width: calc(100vw - var(--sp-48) - var(--scrollbar-width, 0px));
     text-align: center;
     margin-inline: auto;
+    position: absolute;
+    min-width: 100%;
+    z-index: 1;
   }
 }
 

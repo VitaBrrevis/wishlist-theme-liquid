@@ -186,7 +186,7 @@
         "hover_menu": true,
         "header_layout": "left-center",
         "sticky_header_type": "always",
-        "is_shopping_cart_shown": false,
+        "is_shopping_cart_shown": true,
         "is_phone_show": false,
         "phone_text": "<p>561-825-8071 </p>",
         "phone_link": "tel:561-825-8071",

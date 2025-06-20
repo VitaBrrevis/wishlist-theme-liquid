@@ -82,7 +82,7 @@
     "product_quick_view": false,
     "product_save_type": "percent",
     "cart_type": "drawer",
-    "cart_icon": "cart",
+    "cart_icon": "bag",
     "enable_search": false,
     "predictive_search_recommendation": "",
     "typewriter_effect_enabled": false,

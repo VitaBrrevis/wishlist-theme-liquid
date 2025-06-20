@@ -64,7 +64,6 @@
         },
         "buy_buttons": {
           "type": "buy_buttons",
-          "disabled": true,
           "settings": {
             "show_quantity_selector": true,
             "show_dynamic_checkout": true,
@@ -101,6 +100,7 @@
         },
         "request_quote_m3VyKq": {
           "type": "request_quote",
+          "disabled": true,
           "settings": {
             "heading": "Request",
             "button_opener_label": "REQUEST",

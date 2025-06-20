@@ -73,7 +73,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Welcome to my </strong><em><strong>wishlist dump</strong></em>",
+            "heading": "<strong>Welcome to my </strong><em><strong>wishlist</strong></em>",
             "heading_size": "title-md",
             "heading_tag": "h1",
             "highlighted_text": "scribble",

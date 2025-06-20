@@ -19,8 +19,8 @@
             "heading": "Lorem ipsum dolor sit amet",
             "heading_size": "title-sm",
             "heading_tag": "div",
-            "button_label": "Shop All",
-            "button_link": "shopify://pages/shop-all-wallpaper",
+            "button_label": "View All",
+            "button_link": "shopify://collections/all",
             "button_secondary_style": true
           }
         }
@@ -38,7 +38,7 @@
         "color_text": "#ffffff",
         "color_background": "#000000",
         "gradient_background": "",
-        "color_button_text": "#7d1212ff",
+        "color_button_text": "#7d1212",
         "color_button_background": "#ffffff",
         "color_button_gradient": "",
         "color_overlay": "#000000",

@@ -55,13 +55,27 @@
     "collection-list": {
       "type": "collection-list",
       "blocks": {
-        "collection-2": {
+        "collection-4": {
           "type": "collection",
           "settings": {
-            "collection": "cars",
+            "collection": "jewelery",
             "page": "",
-            "image": "shopify://shop_images/IMG_8284.jpg",
-            "title": "Cars",
+            "image": "shopify://shop_images/IMG_8286.jpg",
+            "title": "",
+            "description": "",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "fragrances",
+            "page": "",
+            "image": "shopify://shop_images/IMG_8287.jpg",
+            "title": "",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -83,40 +97,26 @@
             "overlay_opacity": 40
           }
         },
-        "collection-5": {
+        "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "fragrances",
+            "collection": "cars",
             "page": "",
-            "image": "shopify://shop_images/IMG_8287.jpg",
-            "title": "",
+            "image": "shopify://shop_images/IMG_8284.jpg",
+            "title": "Cars",
             "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
             "color_overlay": "#000000",
             "overlay_opacity": 40
           }
-        },
-        "collection-4": {
-          "type": "collection",
-          "settings": {
-            "collection": "jewelery",
-            "page": "",
-            "image": "shopify://shop_images/IMG_8286.jpg",
-            "title": "",
-            "description": "",
-            "overlay_content": false,
-            "color_text": "#ffffff",
-            "color_overlay": "#000000",
-            "overlay_opacity": 0
-          }
         }
       },
       "block_order": [
-        "collection-2",
-        "collection-3",
+        "collection-4",
         "collection-5",
-        "collection-4"
+        "collection-3",
+        "collection-2"
       ],
       "settings": {
         "columns": 5,

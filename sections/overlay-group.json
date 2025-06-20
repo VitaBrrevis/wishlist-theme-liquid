@@ -38,6 +38,7 @@
     },
     "search-drawer": {
       "type": "search-drawer",
+      "disabled": true,
       "settings": {}
     },
     "newsletter-popup": {

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main-collection-banner": {
@@ -50,53 +59,6 @@
         "parallax_direction": "vertical"
       }
     },
-    "rich_text_87haAX": {
-      "type": "rich-text",
-      "blocks": {
-        "text_HcBPFk": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The beauty of the wall paneling lies in its elegance, practicality, and wide range of aesthetic looks. Typically made of MDF (medium density fiber), an engineered wood consisting of hardwood or softwood residuals, wall paneling combines aesthetic versatility with everyday utility. Not only do these popular <a href=\"https:\/\/conceptwalls.store\/\" target=\"_blank\" title=\"https:\/\/conceptwalls.store\/\">wall treatments<\/a> add a sophisticated spin to any room, but the wide range of panels will be a highlight for any interior design decision, whether modern or traditional. <\/p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "text_HcBPFk"
-      ],
-      "settings": {
-        "text_alignment": "left",
-        "text_alignment_mobile": "left",
-        "heading": "",
-        "heading_size": "title-md",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "button_label": "",
-        "button_link": "",
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "divider": false,
-        "narrow": true,
-        "rounded": false
-      }
-    },
     "main-collection": {
       "type": "main-collection",
       "blocks": {
@@ -113,7 +75,7 @@
           "settings": {
             "position": 8,
             "heading": "Example heading",
-            "content": "<p>Share information about your brand with your customers.<\/p>",
+            "content": "<p>Share information about your brand with your customers.</p>",
             "button_label": "Shop now",
             "button_link": "",
             "content_position": "md:items-center",
@@ -149,171 +111,10 @@
         "full_width": false,
         "rounded": true
       }
-    },
-    "recently-viewed": {
-      "type": "recently-viewed",
-      "disabled": true,
-      "settings": {
-        "product_limit": 6,
-        "columns": 4,
-        "carousel_on_desktop": true,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "heading": "Recently Viewed",
-        "heading_size": "title-md",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 80,
-        "divider": false,
-        "full_width": false,
-        "rounded": true
-      }
-    },
-    "rich_text_RaXJgw": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_m3BxeJ": {
-          "type": "heading",
-          "settings": {
-            "heading": "Wall Paneling Advantages",
-            "heading_size": "title-md",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text_eWHTTy": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Transform your living spaces with decorative wall panels that combine modern elegance with functionality. At Concept Walls, conveniently located at <a href=\"https:\/\/www.google.com\/maps\/place\/Concept+Walls\/@26.048708,-80.1537651,17z\/data=!4m15!1m8!3m7!1s0x88d9abcfaf1644d5:0xee8b0b8ea7bc49cd!2sConcept+Walls!8m2!3d26.0487102!4d-80.1536276!10e5!16s%2Fg%2F11y5l3n_2y!3m5!1s0x88d9abcfaf1644d5:0xee8b0b8ea7bc49cd!8m2!3d26.0487102!4d-80.1536276!16s%2Fg%2F11y5l3n_2y?hl=en&entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D\" target=\"_blank\" title=\"https:\/\/www.google.com\/maps\/place\/Concept+Walls\/@26.048708,-80.1537651,17z\/data=!4m15!1m8!3m7!1s0x88d9abcfaf1644d5:0xee8b0b8ea7bc49cd!2sConcept+Walls!8m2!3d26.0487102!4d-80.1536276!10e5!16s%2Fg%2F11y5l3n_2y!3m5!1s0x88d9abcfaf1644d5:0xee8b0b8ea7bc49cd!8m2!3d26.0487102!4d-80.1536276!16s%2Fg%2F11y5l3n_2y?hl=en&entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D\">1300 Stirling Road, ste 2A, Dania Beach, Florida, 33004<\/a>, we offer a wide selection of interior wall paneling to suit any style.<\/p><h3>Why Choose Our Wall Panels?<\/h3><p>Our wall paneling sheets are designed to create a peaceful and sophisticated atmosphere in your home or office. With finishes ranging from wood wall paneling to solid wall panels, you’ll find options that meet both your aesthetic and functional needs. Popular choices include:<\/p><ul><li>Wooden finish for a warm, natural look.<\/li><li>Colored wall panels in solid colors for a modern, sleek appeal.<\/li><li>Easy-to-install solid finish panels for quick transformations.<\/li><\/ul><h3>Benefits of Concept Walls’ Decorative Wall Panels<\/h3><ul><li>Ease of Installation: Our panels are simple to mount, allowing you to achieve a hassle-free makeover.<\/li><li>Versatility: Whether you want to create a statement with accent walls or enhance an entire room, our wood wall panels and solid wall panels offer endless possibilities.<\/li><li>Local Convenience: Visit our store in Dania Beach to explore textures and finishes in person.<\/li><\/ul><h3>Where to Buy Paneling?<\/h3><p>Concept Walls is your trusted destination for high-quality decorative wall panels. Our team is ready to assist you in selecting the perfect solution for your living room, bedroom, office, or any other space. Stop by our Dania Beach showroom to experience the difference that premium wall paneling can make. <a href=\"https:\/\/conceptwalls.store\/pages\/contact\" target=\"_blank\" title=\"https:\/\/conceptwalls.store\/pages\/contact\">Visit Our Store<\/a>.<\/p>",
-            "text_size": "subtext-sm",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "heading_m3BxeJ",
-        "text_eWHTTy"
-      ],
-      "settings": {
-        "text_alignment": "left",
-        "text_alignment_mobile": "left",
-        "heading": "",
-        "heading_size": "title-md",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "button_label": "",
-        "button_link": "",
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "divider": false,
-        "narrow": true,
-        "rounded": false
-      }
-    },
-    "image_with_text_overlay_HzimGf": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_e3TmFC": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "",
-            "subheading_size": "subtitle-md",
-            "secondary_color": true
-          }
-        },
-        "heading_Vw6UJA": {
-          "type": "heading",
-          "settings": {
-            "heading": "Modern  Style with Wall Paneling",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "span",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text_exQQTD": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Create a chic, modern look with Wooden color or Solid color panels<\/p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_e3TmFC",
-        "heading_Vw6UJA",
-        "text_exQQTD"
-      ],
-      "settings": {
-        "transparent_header": false,
-        "image": "shopify:\/\/shop_images\/02_ec5f76e1-d0a0-46d5-8924-cdc445e92a40.jpg",
-        "image_height": "adapt",
-        "content_width": "small",
-        "content_position": "md:items-end md:justify-start",
-        "text_alignment": "left",
-        "image_mobile": "shopify:\/\/shop_images\/02_ec5f76e1-d0a0-46d5-8924-cdc445e92a40.jpg",
-        "image_height_mobile": "auto",
-        "content_position_mobile": "items-end justify-start",
-        "text_alignment_mobile": "left",
-        "color_text": "#ffffff",
-        "color_highlight": "#e0a580",
-        "gradient_highlight": "",
-        "color_button_text": "#171717",
-        "color_button_background": "#ffffff",
-        "color_button_gradient": "",
-        "color_overlay": "#171717",
-        "overlay_opacity": 37,
-        "padding_top": 36,
-        "padding_bottom": 100,
-        "divider": false,
-        "full_width": true,
-        "rounded": false,
-        "enable_parallax": true,
-        "parallax_direction": "vertical"
-      }
     }
   },
   "order": [
     "main-collection-banner",
-    "rich_text_87haAX",
-    "main-collection",
-    "recently-viewed",
-    "rich_text_RaXJgw",
-    "image_with_text_overlay_HzimGf"
+    "main-collection"
   ]
 }

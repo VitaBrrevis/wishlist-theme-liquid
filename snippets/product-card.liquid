@@ -24,7 +24,7 @@
 {%- if product != blank or product_page != blank -%}
   {%- liquid
     assign featured_media = product.featured_media
-    if product == blank
+    if product == blank or page_image != blank
       assign featured_media = page_image
     endif
     assign product_url = product.url | within: collection

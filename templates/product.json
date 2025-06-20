@@ -152,7 +152,7 @@
         "padding_bottom": 84,
         "divider": false,
         "full_width": true,
-        "rounded": false
+        "rounded": true
       }
     },
     "help-drawer": {

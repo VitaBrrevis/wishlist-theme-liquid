@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/vecteezy_close-up-of-blooming-flowerbeds-of-amazing-red-color_23594115.jpg",
-            "heading": "Lorem ipsum dolor sit amet",
+            "heading": "<strong>Just casually adding stuff i want but definitely don’t need (yet)</strong>",
             "heading_size": "title-sm",
             "heading_tag": "div",
             "button_label": "View All",
@@ -62,7 +62,7 @@
             "page": "",
             "image": "shopify://shop_images/IMG_8284.jpg",
             "title": "Cars",
-            "description": "", 
+            "description": "",
             "overlay_content": false,
             "color_text": "#ffffff",
             "color_overlay": "#000000",
@@ -259,7 +259,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/IMG_8271.jpg",
-        "heading": "Lorem ipsum dolor <em>sit amet</em>",
+        "heading": "My personal <em>Roman Empire</em>",
         "heading_size": "title-md",
         "heading_alignment": "text-center md:items-center",
         "heading_tag": "span",

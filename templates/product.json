@@ -218,20 +218,22 @@
     "image-with-text-1": {
       "type": "image-with-text",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "text": {
+          "type": "text",
           "settings": {
-            "heading": "Lorem ipsum dolor sit amet",
-            "heading_size": "title-md",
-            "heading_tag": "h2",
+            "text": "<p><strong>Look at this thing. how have i even survived without it??</strong></p>",
+            "text_size": "subtext-custom",
+            "text_max_size": 38,
+            "text_font": "heading",
+            "secondary_color": false,
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
         },
-        "text": {
+        "text_LE3Qrj": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>",
+            "text": "<p>like, <em>hello</em>—it’s cute, it’s functional, it’s probably got a five-star review from some random person who now has their life together (goals). and oh wow, would you look at that pretty little detail on the side? <em>chef’s kiss.</em></p><p>but wait—<em>plot twist</em>—there’s more. flip it over, and bam! bonus ways to ~~bribe~~ delight the party. because why settle for <em>just</em> amazing when you can have <em>next-level</em> amazing?</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -242,15 +244,15 @@
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "text",
+        "text_LE3Qrj"
       ],
       "settings": {
         "image": "shopify://shop_images/IMG_8271.jpg",
         "image_height": "adapt",
         "image_width": "medium",
         "layout": "text_first",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "image_height_mobile": "400px",
         "layout_proportion": "primary",
         "text_alignment_mobile": "left",

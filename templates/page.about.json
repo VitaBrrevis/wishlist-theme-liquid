@@ -24,7 +24,7 @@
       }
     },
     "image_with_text_overlay_BKiQrR": {
-      "type": "image-with-text-overlay", 
+      "type": "image-with-text-overlay",
       "blocks": {
         "heading_RqeriV": {
           "type": "heading",
@@ -40,6 +40,7 @@
       "block_order": [
         "heading_RqeriV"
       ],
+      "disabled": true,
       "settings": {
         "transparent_header": false,
         "image_height": "600px",
@@ -72,7 +73,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Welcome to my </strong><em><strong>✨wishlist dump✨</strong></em>",
+            "heading": "<strong>Welcome to my </strong><em><strong>wishlist dump</strong></em>",
             "heading_size": "title-md",
             "heading_tag": "h1",
             "highlighted_text": "scribble",
@@ -82,7 +83,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Okay, so this is basically where I stash all the stuff I’m manifesting for when I get <em>stupid rich</em> (which is gonna happen, btw, I just don’t know when). The best part? I’m not telling a soul when it does… but <em>everything</em> here will magically appear in my life. <em>Poof.</em></p><p>Wanna help speed up the process? You can <strong>donate</strong> toward any of these <em>very important</em> items, and I’ll:</p><ul><li>Secretly move you up my \"favorite people\" list</li><li>Send you <strong>+100 party points</strong> (yes, they’re real, and yes, they’re OP)</li><li>Probably owe you a drink when I’m rolling in cash</li></ul><p><strong>Special shoutout to Dima</strong>—the best boyfriend ever—who somehow convinced me to actually <em>start</em> this project instead of procrastinating for another decade. Love you, babe. 💖</p><p>Now go on, pick a thing. The sooner you donate, the sooner I’ll stop being broke (and maybe share some party points with you). 😉</p>",
+            "text": "<p>Okay, so this is basically where I stash all the stuff I’m manifesting for when I get <em>stupid rich</em> (which is gonna happen, btw, I just don’t know when). The best part? I’m not telling a soul when it does… but <em>everything</em> here will magically appear in my life. <em>Poof.</em></p><p>Wanna help speed up the process? You can <strong>donate</strong> toward any of these <em>very important</em> items, and I’ll:</p><ul><li>Secretly move you up my \"favorite people\" list</li><li>Send you <strong>+100 party points</strong> (yes, they’re real, and yes, they’re OP)</li><li>Probably owe you a drink when I’m rolling in cash</li></ul><p><strong>Special shoutout to Dima</strong>—the best boyfriend ever—who somehow convinced me to actually <em>start</em> this project instead of procrastinating for another decade. Love you, babe. 💖</p><p>Now go on, pick a thing. The sooner you donate, the sooner I’ll stop being broke (and maybe share some party points with you). </p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -107,8 +108,8 @@
         "color_text": "",
         "color_background": "",
         "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
+        "color_highlight": "#310101",
+        "gradient_highlight": "linear-gradient(86deg, rgba(255, 255, 255, 1), rgba(21, 198, 237, 1) 47%, rgba(250, 13, 253, 1) 84%)",
         "color_button_text": "",
         "color_button_background": "",
         "color_button_gradient": "",

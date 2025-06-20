@@ -62,7 +62,7 @@
             "page": "",
             "image": "shopify://shop_images/IMG_8284.jpg",
             "title": "Cars",
-            "description": "",
+            "description": "", 
             "overlay_content": false,
             "color_text": "#ffffff",
             "color_overlay": "#000000",

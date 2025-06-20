@@ -292,7 +292,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum<br/><br/></p>",
+            "text": "<p>okay, overachiever.  up there is where the magic happens—cool stuff to browse, fall in love with, and <em>maybe </em>help me manifest (hint hint). but since you’re here… fine, fine, i gotchu. hit that button below if you <em>really </em>wanna see <em>all </em>the things i’m low-key obsessed with. no pressure… but also, <em>imagine the party points</em>.<br/></p>",
             "text_size": "subtext-sm",
             "text_max_size": 32,
             "text_font": "body",
@@ -308,14 +308,14 @@
       "settings": {
         "text_alignment": "right",
         "text_alignment_mobile": "left",
-        "heading": "Lorem ipsum dolor sit amet, consectetur <em>adipiscing elit</em>",
+        "heading": "So… you scrolled<em> all the way down</em>?",
         "heading_size": "title-md",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "span",
         "subheading": "",
         "description": "",
-        "button_label": "Bruh",
-        "button_link": "shopify://pages/about-us",
+        "button_label": "View all",
+        "button_link": "shopify://collections/all",
         "highlighted_text": "text",
         "highlighted_scribble": "circle",
         "color_text": "",

@@ -9,8 +9,6 @@
  */
 {
   "current": {
-    "logo": "shopify://shop_images/ChatGPT_Image_Jun_19_2025_10_48_01_PM.png",
-    "white_logo": "shopify://shop_images/ChatGPT_Image_Jun_19_2025_10_42_23_PM_053032ab-3966-4c3b-b05e-017d256c2022.png",
     "logo_width": 200,
     "logo_width_mobile": 120,
     "favicon": "shopify://shop_images/Concept_Walls_favicon_dark.png",
@@ -34,7 +32,7 @@
     "color_error_text": "#be123c",
     "color_error_background": "#fff1f2",
     "color_info_text": "#b45309",
-    "type_header_font": "bodoni_moda_n4",
+    "type_header_font": "pinyon_script_n4",
     "type_header_line_height": 1,
     "type_header_spacing": 0,
     "type_header_capitalize": false,

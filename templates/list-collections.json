@@ -1,12 +1,22 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-list-collections",
       "blocks": {
-        "collection_7tnhBL": {
+        "collection_8mzprN": {
           "type": "collection",
           "settings": {
-            "collection": "wallpaper",
+            "collection": "jewelery",
+            "image": "shopify://shop_images/IMG_8286.jpg",
             "title": "",
             "description": "",
             "overlay_content": false,
@@ -15,10 +25,11 @@
             "overlay_opacity": 30
           }
         },
-        "collection_Xqpfd8": {
+        "collection_ayXQWH": {
           "type": "collection",
           "settings": {
-            "collection": "wall-panels",
+            "collection": "collectors-edition",
+            "image": "shopify://shop_images/IMG_8287.jpg",
             "title": "",
             "description": "",
             "overlay_content": false,
@@ -27,10 +38,11 @@
             "overlay_opacity": 30
           }
         },
-        "collection_mxMVtt": {
+        "collection_EABy8D": {
           "type": "collection",
           "settings": {
-            "collection": "wooden-color-finish",
+            "collection": "fragrances",
+            "image": "shopify://shop_images/IMG_8285.jpg",
             "title": "",
             "description": "",
             "overlay_content": false,
@@ -39,46 +51,11 @@
             "overlay_opacity": 30
           }
         },
-        "collection_6V8q9N": {
+        "collection_EUXN8d": {
           "type": "collection",
           "settings": {
-            "collection": "solid-color-finish",
-            "title": "",
-            "description": "",
-            "overlay_content": false,
-            "color_text": "#ffffff",
-            "color_overlay": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_Ghk4TG": {
-          "type": "collection",
-          "settings": {
-            "collection": "stone-veneer",
-            "title": "",
-            "description": "",
-            "overlay_content": false,
-            "color_text": "#ffffff",
-            "color_overlay": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_6RRKRC": {
-          "type": "collection",
-          "settings": {
-            "collection": "venetian-plaster",
-            "title": "",
-            "description": "",
-            "overlay_content": false,
-            "color_text": "#ffffff",
-            "color_overlay": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_y7Eq7V": {
-          "type": "collection",
-          "settings": {
-            "collection": "installation",
+            "collection": "cars",
+            "image": "shopify://shop_images/IMG_8284.jpg",
             "title": "",
             "description": "",
             "overlay_content": false,
@@ -89,13 +66,10 @@
         }
       },
       "block_order": [
-        "collection_7tnhBL",
-        "collection_Xqpfd8",
-        "collection_mxMVtt",
-        "collection_6V8q9N",
-        "collection_Ghk4TG",
-        "collection_6RRKRC",
-        "collection_y7Eq7V"
+        "collection_8mzprN",
+        "collection_ayXQWH",
+        "collection_EABy8D",
+        "collection_EUXN8d"
       ],
       "settings": {
         "display_type": "selected",
@@ -103,7 +77,7 @@
         "image_type": "collection",
         "image_ratio": "square",
         "overlay_content": true,
-        "show_products_count": true,
+        "show_products_count": false,
         "columns": 4,
         "columns_mobile": "1",
         "heading": "Collections",
